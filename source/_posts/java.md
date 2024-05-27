@@ -1,5 +1,5 @@
 ---
-title: Java 从入门到入坟
+title: Java学习笔记
 date: 2024-3-7 20:00:00
 tags: 
 - 程序设计
@@ -8,11 +8,11 @@ categories: 程序设计
 cover: https://img2.imgtp.com/2024/05/26/E5a3RZxj.jpg
 ---
 
-# <center>Java 从入门到入坟</center>
+# <center>Java学习笔记</center>
 
 ---
 ## 目录
-- [Java 从入门到入坟](#java-从入门到入坟)
+- [Java学习笔记](#java学习笔记)
   - [目录](#目录)
   - [第一章：Java代码及项目结构](#第一章java代码及项目结构)
     - [Part1：Java代码及项目结构](#part1java代码及项目结构)
