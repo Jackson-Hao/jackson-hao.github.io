@@ -4,7 +4,7 @@ date: 2024-3-7 20:00:00
 tags: 
 - 程序设计
 - C语言
-cover: https://img2.imgtp.com/2024/05/26/wXskEuzZ.jpg
+cover: https://s21.ax1x.com/2024/06/09/pkNdCDg.jpg
 categories: 程序设计
 ---
 # C语言程序设计笔记
