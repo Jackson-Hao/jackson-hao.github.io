@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jackson的博客
+title: 行道树的博客
 subtitle: '致敬锐意向前的力量'
 description: '不将就'
 keywords:
-author: Jackson Hao
+author: 行道树
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -104,7 +104,7 @@ theme: butterfly
 
 deploy:
   type: git
-  repo: https://github.com/Jackson-Hao/jackson-hao.github.io.git
+  repo: git@github.com:Jackson-Hao/jackson-hao.github.io.git
   branch: main # 默认使用 master 分支(Github现在改名为main分支)
   message: Update Hexo Static Content # 你可以自定义此次部署更新的说明说明
 
