@@ -8,6 +8,9 @@ cover: https://s21.ax1x.com/2024/06/09/pkNdCDg.jpg
 categories: 程序设计
 ---
 # C语言程序设计笔记
+
+<p align="right"> 刊号:C003 </p>
+
 ---
 ## 目录
 - [C语言程序设计笔记](#c语言程序设计笔记)
